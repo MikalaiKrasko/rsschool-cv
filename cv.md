@@ -1,3 +1,4 @@
+<pre>
 Mikalai Krasko
 Contact Info
 •	City: Homel, Belarus
@@ -15,3 +16,4 @@ Education
 •	Republican Institute of Professional Education (2020), Teacher
 English
 •	Intermediate, B1
+</pre>
